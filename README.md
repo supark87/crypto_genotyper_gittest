@@ -3,10 +3,14 @@
 Connecting Docker containter and singularity image were created
 
 git clone https://github.com/supark87/CryptoGenotyper.git
+
 mkdir inputfile
+
 cd inputfile
+
 copy files into this inputfile
 
+Then choose one of below options (singularity, Docker, or run locally)
 
 ## Singularity use
 
