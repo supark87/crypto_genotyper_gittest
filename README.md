@@ -25,7 +25,7 @@ singularity run -B $(pwd)/inputfile/://data/inputfile/ cryptogenotyper_version1.
 
 ## Docker use
 
-docker pull docker pull supark87/cryptogenotyper_version1
+docker pull supark87/cryptogenotyper_version1
 
 docker run -it -v $(pwd):/data/inputfile/ cryptogenotyper_version1 /data/inputfile/ /data/db_all3 "your email address"
 
