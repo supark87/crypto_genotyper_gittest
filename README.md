@@ -35,4 +35,4 @@ module load Python/3.7
 
 module load ncbi-blast+/LATEST
 
-typer_test_ver1.py /your_input_directory /your_db_directory "your email"
+python typer_test_ver1.py /your_input_directory /your_db_directory "your email"
